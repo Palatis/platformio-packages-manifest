@@ -2,9 +2,9 @@
     "framework-nakedmcs51":
     [
         {
-            "url": "https://github.com/Palatis/framework-nakedmcs51/archive/v0.0.1.tar.gz",
-            "sha1": "f766a211f837bbf823925f91e540a7ec909feb7d",
-            "version": "0.0.1",
+            "url": "https://github.com/Palatis/framework-nakedmcs51/archive/v0.0.2.tar.gz",
+            "sha1": "f57367a56d251cd8bc1eab0d9c282c06e8b1bd12",
+            "version": "0.0.2",
             "system": "all"
         }
     ],
